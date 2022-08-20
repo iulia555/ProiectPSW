@@ -7,9 +7,9 @@
 ֍ Instrumentele software – **PyCharm, SAS Studio, SAS Enterprise Guide, Excel** <br />
 
 *CERINȚELE PROIECTULUI:* <br />
-I. **EXCEL**: funcţii matriceale, funcţii financiare, funcţii logice, funcții statistice, funcţii definite de utilizator, macrocomenzi, Pivot Table, Goalseek, Scenarii, Solver, Subtotaluri, Grafice.
+I. **EXCEL:** funcţii matriceale, funcţii financiare, funcţii logice, funcții statistice, funcţii definite de utilizator, macrocomenzi, Pivot Table, Goalseek, Scenarii, Solver, Subtotaluri, Grafice.
 
-II. **SAS Enterprise Guide**
+II. **SAS Enterprise Guide:**
 -	importul unui fisier non-SAS; 
 -	interogări;
 -	joncţiune;
@@ -21,9 +21,9 @@ II. **SAS Enterprise Guide**
 -	crearea unui document compus;
 -	stiluri create de utilizator.
 
-III. **Programare SAS**: crearea unui set de date SAS din fișiere externe, crearea și folosirea de formate definite de utilizator, procesarea iterativă și condițională a datelor, crearea de subseturi de date, utilizarea de funcții SAS, combinarea seturilor de date prin proceduri specifice SAS și SQL, utilizarea de masive, utilizarea de proceduri pentru raportare, folosirea de proceduri statistice, generarea de grafice.
+III. **Programare SAS:** crearea unui set de date SAS din fișiere externe, crearea și folosirea de formate definite de utilizator, procesarea iterativă și condițională a datelor, crearea de subseturi de date, utilizarea de funcții SAS, combinarea seturilor de date prin proceduri specifice SAS și SQL, utilizarea de masive, utilizarea de proceduri pentru raportare, folosirea de proceduri statistice, generarea de grafice.
 
-IV. **Programare Python**
+IV. **Programare Python:**
 -	utilizarea listelor și a dicționarelor, incluzând metode specifice acestora;
 -	utilizarea seturilor și a tuplurilor, incluzând metode specifice acestora;
 -	definirea și apelarea unor funcții;
