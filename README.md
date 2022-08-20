@@ -1,6 +1,6 @@
 # PROIECT PACHETE SOFTWARE
 
-În cadrul disciplinei Pachete software am realizat, în echipa formată din două persoane, un proiect ce constă în utilizarea pachetele de programe MS Excel, SAS și Python pentru a realiza analiza activității unei organizații și a eventualelor posibilități de extindere a acesteia, respectând anumite cerințe obligatorii. Proiectul a fost notat cu punctajul maxim.
+În cadrul disciplinei **Pachete software** am realizat, în echipa formată din două persoane, un proiect ce constă în utilizarea pachetele de programe **MS Excel, SAS și Python** pentru a realiza analiza activității unei organizații și a eventualelor posibilități de extindere a acesteia, respectând anumite cerințe obligatorii. Proiectul a fost notat cu punctajul maxim.
 
 *TEHNOLOGIILE UTILIZATE:*  <br />
 ֍ Limbajul de programare – **Python** <br />
